@@ -29,7 +29,7 @@ export default {
   color :white;
 }
 input{
-  width: 23.2rem;
+  width: 20.2rem;
   height: 3.2rem;
   border: none;
   outline: none;

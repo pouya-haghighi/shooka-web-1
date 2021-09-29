@@ -18,7 +18,7 @@ export default {
   width: 64.1rem;
   display: flex;
   flex-direction: row-reverse;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
 }
 </style>
